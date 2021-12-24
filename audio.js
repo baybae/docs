@@ -2,18 +2,18 @@
 
 <html>
 
-<head>
 
-<title> Halaman Website Lama </title>
+
+
 
 <script type="text/javascript">
 
 window.location.replace("https://baybae.github.io/docs");
 
-</script>
 
-<head>
 
-<body> Halaman Website Lama </body>
 
-</html>
+
+
+
+
